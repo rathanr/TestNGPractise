@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-19T00:08:21 IST" name="Practise" finished-at="2024-05-19T00:08:21 IST" duration-ms="292">
+    <groups>
+    </groups>
+    <test started-at="2024-05-19T00:08:21 IST" name="Test" finished-at="2024-05-19T00:08:21 IST" duration-ms="292">
+      <class name="Practise.day2">
+        <test-method signature="demo2()[pri:0, instance:Practise.day2@4b0d79fc]" started-at="2024-05-19T00:08:21 IST" name="demo2" finished-at="2024-05-19T00:08:21 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method signature="demo3()[pri:0, instance:Practise.day2@4b0d79fc]" started-at="2024-05-19T00:08:21 IST" name="demo3" finished-at="2024-05-19T00:08:21 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- Practise.day2 -->
+      <class name="Practise.day1">
+        <test-method signature="Demo()[pri:0, instance:Practise.day1@12aba8be]" started-at="2024-05-19T00:08:21 IST" name="Demo" finished-at="2024-05-19T00:08:21 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="DemoSecond()[pri:0, instance:Practise.day1@12aba8be]" started-at="2024-05-19T00:08:21 IST" name="DemoSecond" finished-at="2024-05-19T00:08:21 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoSecond -->
+        <test-method signature="DemoThird()[pri:0, instance:Practise.day1@12aba8be]" started-at="2024-05-19T00:08:21 IST" name="DemoThird" finished-at="2024-05-19T00:08:21 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoThird -->
+      </class> <!-- Practise.day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Practise -->
+</testng-results>
